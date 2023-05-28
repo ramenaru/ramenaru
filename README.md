@@ -1,4 +1,8 @@
-Coding Time Metrics :
+# 🍜 Ramenaru
+Arch Linux, Exploit, i3wm, Vim
+---
+
+**`Insights`**
 
 <!--START_SECTION:waka-->
 
@@ -15,3 +19,9 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+ <div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramenaru" alt="Ramenaru Contrib Stats" />
+</div>
+
+
