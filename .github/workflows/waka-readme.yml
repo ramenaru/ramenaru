@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.waka_16f6e586-956b-4dab-8591-4f639df0726e }}
           SHOW_TITLE: true
           BLOCKS: ░▒▓█
           TIME_RANGE: all_time
