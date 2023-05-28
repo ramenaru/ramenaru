@@ -1,5 +1,9 @@
 # 🍜 Ramenaru
-Arch Linux, Exploit, i3wm, Vim
+
+**`i use arch btw`**
+
+active on discord...
+
 ---
 
 **`Insights`**
