@@ -1,9 +1,5 @@
 # 🍜 Ramenaru
 
-**`i use arch btw`**
-
-active on discord...
-
 ---
 
 **`Insights`**
