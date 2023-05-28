@@ -1,7 +1,5 @@
 # 🍜 Ramenaru
 
----
-
 **`Insights`**
 
 <!--START_SECTION:waka-->
