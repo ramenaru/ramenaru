@@ -18,8 +18,9 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
- <div>
+<div style="text-align: center;">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramenaru&theme=dark&card_width=520" alt="Ramenaru Contrib Stats" />
 </div>
+
 
 
