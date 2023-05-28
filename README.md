@@ -1,6 +1,6 @@
-make this github readme make center 
-
 # 🍜 Ramenaru
+
+active on <a href="https://discordapp.com/users/503291004200157185">discord</a> 
 
 **`Insights`**
 
