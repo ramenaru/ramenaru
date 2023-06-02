@@ -7,18 +7,19 @@ usually active on <a href="https://discordapp.com/users/503291004200157185">disc
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 May 2023 - To: 30 May 2023
+From: 15 May 2023 - To: 31 May 2023
 
-Total Time: 9 hrs 18 mins
+Total Time: 12 hrs
 
-TypeScript   8 hrs 26 mins   ██████████████████████▓░░   90.59 %
-Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-YAML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-INI          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+TypeScript   10 hrs 54 mins  ██████████████████████▓░░   90.80 %
+XML          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+YAML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+INI          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
