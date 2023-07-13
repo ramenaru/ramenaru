@@ -7,7 +7,7 @@ usually active on <a href="https://discordapp.com/users/503291004200157185">disc
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2023 - To: 10 July 2023
+From: 15 May 2023 - To: 11 July 2023
 
 Total Time: 58 hrs 26 mins
 
