@@ -7,19 +7,19 @@ usually active on <a href="https://discordapp.com/users/503291004200157185">disc
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2023 - To: 13 July 2023
+From: 15 May 2023 - To: 14 July 2023
 
-Total Time: 58 hrs 29 mins
+Total Time: 58 hrs 41 mins
 
-TypeScript                 41 hrs 3 mins   >>>>>>>>>>>>>>>>>>-------   70.19 %
-Other                      3 hrs 52 mins   >>-----------------------   06.64 %
-Blade Template             2 hrs 17 mins   >------------------------   03.93 %
-INI                        2 hrs 9 mins    >------------------------   03.68 %
-Dart                       1 hr 50 mins    >------------------------   03.15 %
-YAML                       1 hr 28 mins    >------------------------   02.53 %
-Python                     42 mins         -------------------------   01.21 %
+TypeScript                 41 hrs 3 mins   >>>>>>>>>>>>>>>>>--------   69.95 %
+Other                      4 hrs 5 mins    >>-----------------------   06.96 %
+Blade Template             2 hrs 17 mins   >------------------------   03.91 %
+INI                        2 hrs 9 mins    >------------------------   03.67 %
+Dart                       1 hr 50 mins    >------------------------   03.14 %
+YAML                       1 hr 28 mins    >------------------------   02.52 %
+Python                     42 mins         -------------------------   01.20 %
 Bash                       38 mins         -------------------------   01.10 %
-CSS                        32 mins         -------------------------   00.93 %
+CSS                        32 mins         -------------------------   00.92 %
 Groovy                     32 mins         -------------------------   00.92 %
 ```
 
