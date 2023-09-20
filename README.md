@@ -1,5 +1,6 @@
 # 🍜 Ramenaru
-i'm a cybersecurity wannabe...
+i'm a cyber security researchers wannabe...
+<br />
 usually active on <a href="https://discordapp.com/users/503291004200157185">discord</a> 
 
 **`Insights`**
