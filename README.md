@@ -5,7 +5,7 @@ i'm a cyber security researcher wannabe...
 
 ![Discord Badge](https://dcbadge.vercel.app/api/shield/503291004200157185)
 
-## 📊 Coding Stats
+## 📊 Stats
 
 Here's a summary of my recent **`coding`** activities:
 
