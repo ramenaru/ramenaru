@@ -7,8 +7,7 @@ i'm a cyber security researcher wannabe...
 
 ## 📊 Coding Stats
 
-Here's a summary of my recent coding activities:
-**`Insights`**
+Here's a summary of my recent **`coding`** activities:
 
 <!--START_SECTION:waka-->
 
