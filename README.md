@@ -1,10 +1,13 @@
 # 🍜 Ramenaru
 i'm a cyber security researcher wannabe...
-<br />
-usually active on <a href="https://discordapp.com/users/503291004200157185">discord</a>
-<br />
-![](https://dcbadge.vercel.app/api/shield/503291004200157185) 
 
+🌐 you can often find me active on [Discord](https://discordapp.com/users/503291004200157185).
+
+![Discord Badge](https://dcbadge.vercel.app/api/shield/503291004200157185)
+
+## 📊 Coding Stats
+
+Here's a summary of my recent coding activities:
 **`Insights`**
 
 <!--START_SECTION:waka-->
