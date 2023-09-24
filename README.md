@@ -1,7 +1,9 @@
 # 🍜 Ramenaru
 i'm a cyber security researcher wannabe...
 <br />
-usually active on <a href="https://discordapp.com/users/503291004200157185">discord</a> ![](https://dcbadge.vercel.app/api/shield/503291004200157185) 
+usually active on <a href="https://discordapp.com/users/503291004200157185">discord</a>
+<br />
+![](https://dcbadge.vercel.app/api/shield/503291004200157185) 
 
 **`Insights`**
 
