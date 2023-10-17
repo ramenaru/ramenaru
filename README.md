@@ -1,5 +1,5 @@
 # 🍜 Ramenaru
-i'm a cyber security researcher wannabe...
+just an enthusiast who love binary, and writing diary
 
 🌐 you can often find me active on [Discord](https://discordapp.com/users/503291004200157185).
 
