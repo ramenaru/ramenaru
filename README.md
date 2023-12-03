@@ -12,7 +12,7 @@ Here's a summary of my recent **`coding`** activities:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2023 - To: 30 November 2023
+From: 15 May 2023 - To: 01 December 2023
 
 Total Time: 170 hrs 36 mins
 
@@ -23,7 +23,7 @@ Go                         20 hrs 10 mins  >>>----------------------   11.82 %
 Other                      4 hrs 18 mins   >------------------------   02.53 %
 Markdown                   2 hrs 35 mins   -------------------------   01.52 %
 INI                        2 hrs 24 mins   -------------------------   01.41 %
-Rust                       2 hrs 21 mins   -------------------------   01.39 %
+Rust                       2 hrs 22 mins   -------------------------   01.39 %
 Blade Template             2 hrs 17 mins   -------------------------   01.35 %
 JSON                       1 hr 51 mins    -------------------------   01.08 %
 ```
