@@ -1,5 +1,5 @@
 # 🍜 Ramenaru
-just an enthusiast who loves binary, and writing diary
+favs: tomyam, tempura, and tofu
 
 🌐 you can often find me active on [Discord](https://discordapp.com/users/503291004200157185).
 
