@@ -1,14 +1,29 @@
 # 🍜 Ramenaru
-favs: tomyam, tempura, and tofu
 
-🌐 you can often find me active on [Discord](https://discordapp.com/users/503291004200157185).
+### Favorite Ramens 🍲: Tomyam, Tempura, Tofu
 
-![Discord Badge](https://dcbadge.vercel.app/api/shield/503291004200157185)
+---
 
-## 📊 Stats
+### Navigation
+- [🌐 Socials](#socials)
+- [📊 Coding Stats](#coding-stats)
+- [🔥 Streak Stats](#streak-stats)
+- [📝 Blog Posts](#blog-posts)
+- [📚 Projects](#projects)
+- [📫 How to Reach Me](#contact)
 
-Here's a summary of my recent **`coding`** activities:
+---
 
+<a name="socials"></a>
+## 🌐 Socials
+Catch me online! I'm often active on Discord. 
+
+[![Discord Badge](https://dcbadge.vercel.app/api/shield/503291004200157185)](https://discordapp.com/users/503291004200157185)
+
+---
+
+<a name="coding-stats"></a>
+## 📊 My Coding Stats
 <!--START_SECTION:waka-->
 
 ```txt
@@ -29,10 +44,35 @@ YAML                       2 hrs 45 mins   -------------------------   00.94 %
 ```
 
 <!--END_SECTION:waka-->
+---
 
-<div style="text-align: center;">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramenaru&theme=dark&card_width=520" alt="Ramenaru Contrib Stats" />
+<a name="streak-stats"></a>
+## 🔥 Streak Stats
+
+<div align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramenaru&theme=dark&card_width=520" alt="Ramenaru's Contribution Stats" />
 </div>
+
+---
+
+<a name="blog-posts"></a>
+## 📝 Blog Posts
+_Coming Soon!_
+
+---
+
+<a name="projects"></a>
+## 📚 Projects
+_My notable projects will be listed here soon._
+
+---
+
+<a name="contact"></a>
+## 📫 How to Reach Me
+_Feel free to contact me for collaborations or just a chat!_
+
+---
+
 
 
 
