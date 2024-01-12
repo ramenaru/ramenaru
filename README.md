@@ -1,6 +1,6 @@
 # 🍜 Ramenaru
 
-### Favorite Ramens 🍲: Tomyam, Tempura, Tofu
+### Favorite Ramens : Tomyam, Tempura, Tofu
 
 ---
 
@@ -49,7 +49,7 @@ YAML                       2 hrs 45 mins   -------------------------   00.94 %
 <a name="streak-stats"></a>
 ## 🔥 Streak Stats
 
-<div align="center">
+<div align="start">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramenaru&theme=dark&card_width=520" alt="Ramenaru's Contribution Stats" />
 </div>
 
