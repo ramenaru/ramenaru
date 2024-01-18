@@ -1,37 +1,25 @@
-# 🍜 Ramenaru
-favs: tomyam, tempura, and tofu
+<h1 align="center">Hi 👋, I'm A Human</h1>
+<h3 align="center">A lovers man that is more than you know</h3>
 
-🌐 you can often find me active on [Discord](https://discordapp.com/users/503291004200157185).
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramenaru&label=Profile%20views&color=0e75b6&style=flat" alt="ramenaru" /> </p>
 
-![Discord Badge](https://dcbadge.vercel.app/api/shield/503291004200157185)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramenaru" alt="ramenaru" /></a> </p>
 
-## 📊 Stats
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-Here's a summary of my recent **`coding`** activities:
+- 🔭 I’m currently working on [microsoft word](https://microsoft.com)
 
-<!--START_SECTION:waka-->
+- 👯 I’m looking to collaborate on [arga p](https://subang.com)
 
-```txt
-From: 15 May 2023 - To: 16 January 2024
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/muhammad ramzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad ramzi" height="30" width="40" /></a>
+<a href="https://dribbble.com/ramenaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ramenaru" height="30" width="40" /></a>
+</p>
 
-Total Time: 306 hrs 17 mins
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-HTML                       85 hrs 57 mins  >>>>>>>------------------   28.07 %
-TypeScript                 71 hrs 4 mins   >>>>>>-------------------   23.21 %
-Dart                       63 hrs 52 mins  >>>>>--------------------   20.85 %
-Go                         42 hrs 6 mins   >>>----------------------   13.75 %
-Other                      6 hrs 44 mins   >------------------------   02.20 %
-Rust                       4 hrs 42 mins   -------------------------   01.54 %
-JavaScript                 3 hrs 24 mins   -------------------------   01.11 %
-CSS                        3 hrs 19 mins   -------------------------   01.09 %
-Markdown                   3 hrs 16 mins   -------------------------   01.07 %
-JSON                       2 hrs 59 mins   -------------------------   00.98 %
-```
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramenaru&show_icons=true&locale=en&layout=compact" alt="ramenaru" /></p>
 
-<!--END_SECTION:waka-->
-
-<div style="text-align: center;">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramenaru&theme=dark&card_width=520" alt="Ramenaru Contrib Stats" />
-</div>
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramenaru&" alt="ramenaru" /></p>
