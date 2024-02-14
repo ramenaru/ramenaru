@@ -12,20 +12,20 @@ Here's a summary of my recent **`coding`** activities:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2023 - To: 11 February 2024
+From: 15 May 2023 - To: 12 February 2024
 
-Total Time: 354 hrs 58 mins
+Total Time: 358 hrs 6 mins
 
-HTML                       99 hrs 50 mins  >>>>>>>------------------   28.13 %
-Dart                       86 hrs 1 min    >>>>>>-------------------   24.23 %
-TypeScript                 71 hrs 11 mins  >>>>>--------------------   20.06 %
-Go                         50 hrs 39 mins  >>>>---------------------   14.27 %
-Other                      6 hrs 56 mins   -------------------------   01.96 %
-Rust                       5 hrs 50 mins   -------------------------   01.65 %
-JavaScript                 3 hrs 58 mins   -------------------------   01.12 %
-CSS                        3 hrs 51 mins   -------------------------   01.09 %
+HTML                       99 hrs 55 mins  >>>>>>>------------------   27.90 %
+Dart                       86 hrs 1 min    >>>>>>-------------------   24.02 %
+TypeScript                 71 hrs 11 mins  >>>>>--------------------   19.88 %
+Go                         50 hrs 39 mins  >>>>---------------------   14.15 %
+Other                      8 hrs 47 mins   >------------------------   02.46 %
+Rust                       5 hrs 50 mins   -------------------------   01.63 %
+CSS                        4 hrs 6 mins    -------------------------   01.15 %
+JavaScript                 3 hrs 58 mins   -------------------------   01.11 %
+Bash                       3 hrs 42 mins   -------------------------   01.03 %
 Markdown                   3 hrs 16 mins   -------------------------   00.92 %
-Blade Template             3 hrs 3 mins    -------------------------   00.86 %
 ```
 
 <!--END_SECTION:waka-->
