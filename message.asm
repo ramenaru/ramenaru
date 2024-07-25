@@ -6,7 +6,6 @@ section .text
     global _start
 
 _start:
-    ; Write the message to stdout
     mov eax, 4         
     mov ebx, 1         
     mov ecx, message   
