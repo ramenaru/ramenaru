@@ -12,11 +12,11 @@ Here's a summary of my recent **`coding`** activities:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2023 - To: 29 October 2024
+From: 15 May 2023 - To: 30 October 2024
 
 Total Time: 638 hrs 19 mins
 
-TypeScript                 252 hrs 23 mins >>>>>>>>>>---------------   39.54 %
+TypeScript                 252 hrs 24 mins >>>>>>>>>>---------------   39.54 %
 HTML                       129 hrs 46 mins >>>>>--------------------   20.33 %
 Dart                       112 hrs 55 mins >>>>---------------------   17.69 %
 Go                         56 hrs 27 mins  >>-----------------------   08.84 %
