@@ -10,8 +10,6 @@
 ## Track Records
 [![Personal website and blogs](https://img.shields.io/badge/Personal_website_and_blogs-FF7139?style=for-the-badge&logo=ghost&logoColor=white)](https://ramenaru.me)
 [![GitHub repos](https://img.shields.io/badge/Public_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramenaru?tab=repositories)
-[![CTF and learning journal](https://img.shields.io/badge/CTF_and_learning_journals-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ramenaru)
-[![Bug bounty program](https://img.shields.io/badge/Bug_bounty_programs-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/ramenaru)
 
 ## Status
 
