@@ -11,7 +11,7 @@
 - [![Website](https://img.shields.io/badge/Websites-FF7139?style=for-the-badge&logo=ghost&logoColor=white)](https://ramenaru.me)  
   Personal blog and technical writings
 
-- [![GitHub](https://img.shields.io/badge/Public_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramenaru?tab=repositories)  
+- [![GitHub](https://img.shields.io/badge/Github_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramenaru)  
   Open-source projects and contributions
 
 ## Status
