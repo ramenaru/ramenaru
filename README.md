@@ -9,7 +9,7 @@
 
 ## Track Records
 [![Personal website and blogs](https://img.shields.io/badge/Personal_website_and_blogs-FF7139?style=for-the-badge&logo=ghost&logoColor=white)](https://ramenaru.me)
-[![GitHub repos](https://img.shields.io/badge/Public__project_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramenaru?tab=repositories)
+[![GitHub repos](https://img.shields.io/badge/Public_project_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramenaru?tab=repositories)
 
 ## Status
 
