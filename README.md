@@ -2,7 +2,7 @@
 
 `Full Stack Developer` | `Cybersecurity Enthusiast` | `Information Systems Student`
 
-## Links
+## Social Links
 [![Discordxx](https://img.shields.io/badge/Discord-7289da?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/503291004200157185)
 [![Steam](https://img.shields.io/badge/Steam-1b2838?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/ramenaru)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/zehfiusachi8zilte5bqkjl2l)
