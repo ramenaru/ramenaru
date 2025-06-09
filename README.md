@@ -8,8 +8,11 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/zehfiusachi8zilte5bqkjl2l)
 
 ## Track Records
-[![Websites](https://img.shields.io/badge/Website_and_blogs-FF7139?style=for-the-badge&logo=ghost&logoColor=white)](https://ramenaru.me)
-[![GitHub Repos](https://img.shields.io/badge/Public_project_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramenaru?tab=repositories)
+- [![Website](https://img.shields.io/badge/Websites-FF7139?style=for-the-badge&logo=ghost&logoColor=white)](https://ramenaru.me)  
+  Personal blog and technical writings
+
+- [![GitHub](https://img.shields.io/badge/Public_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramenaru?tab=repositories)  
+  Open-source projects and contributions
 
 ## Status
 
