@@ -1,13 +1,21 @@
 # 🍜 ramenaru
-favs: tomyam, tempura, and tofu
 
-🌐 you can often find me active on [Discord](https://discordapp.com/users/503291004200157185).
+`Full Stack Developer` | `Cybersecurity Enthusiast` | `Information Systems Student`
 
-![Discord Badge](https://dcbadge.vercel.app/api/shield/503291004200157185)
+## Links
+[![Discordxx](https://img.shields.io/badge/Discord-7289da?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/503291004200157185)
+[![Steam](https://img.shields.io/badge/Steam-1b2838?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/ramenaru)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/zehfiusachi8zilte5bqkjl2l)
 
-## 📊 Stats
+## Track Records
+[![Personal website and blogs](https://img.shields.io/badge/Personal_website_and_blogs-FF7139?style=for-the-badge&logo=ghost&logoColor=white)](https://ramenaru.me)
+[![GitHub repos](https://img.shields.io/badge/Public_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramenaru?tab=repositories)
+[![CTF and learning journal](https://img.shields.io/badge/CTF_and_learning_journals-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ramenaru)
+[![Bug bounty program](https://img.shields.io/badge/Bug_bounty_programs-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/ramenaru)
 
-Here's a summary of my recent **`coding`** activities:
+## Status
+
+Here's a summary of my recent activities:
 
 <!--START_SECTION:waka-->
 
