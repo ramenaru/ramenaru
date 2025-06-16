@@ -21,7 +21,7 @@ Here's a summary of my recent activities:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2023 - To: 13 June 2025
+From: 15 May 2023 - To: 14 June 2025
 
 Total Time: 780 hrs 47 mins
 
