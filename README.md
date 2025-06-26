@@ -21,20 +21,20 @@ Here's a summary of my recent activities:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2023 - To: 23 June 2025
+From: 15 May 2023 - To: 24 June 2025
 
-Total Time: 785 hrs 28 mins
+Total Time: 789 hrs 3 mins
 
-TypeScript                 328 hrs 40 mins >>>>>>>>>>---------------   41.84 %
-HTML                       135 hrs 51 mins >>>>---------------------   17.30 %
-Dart                       112 hrs 55 mins >>>>---------------------   14.38 %
-Go                         58 hrs 44 mins  >>-----------------------   07.48 %
-JavaScript                 26 hrs 59 mins  >------------------------   03.44 %
-Other                      18 hrs 25 mins  >------------------------   02.35 %
+TypeScript                 328 hrs 40 mins >>>>>>>>>>---------------   41.65 %
+HTML                       135 hrs 51 mins >>>>---------------------   17.22 %
+Dart                       112 hrs 55 mins >>>>---------------------   14.31 %
+Go                         58 hrs 44 mins  >>-----------------------   07.44 %
+JavaScript                 27 hrs 1 min    >------------------------   03.43 %
+Other                      18 hrs 36 mins  >------------------------   02.36 %
+Python                     12 hrs 59 mins  -------------------------   01.65 %
 Markdown                   12 hrs 40 mins  -------------------------   01.61 %
-JSON                       10 hrs 17 mins  -------------------------   01.31 %
-CSS                        10 hrs 16 mins  -------------------------   01.31 %
-Python                     9 hrs 37 mins   -------------------------   01.22 %
+JSON                       10 hrs 17 mins  -------------------------   01.30 %
+CSS                        10 hrs 16 mins  -------------------------   01.30 %
 ```
 
 <!--END_SECTION:waka-->
