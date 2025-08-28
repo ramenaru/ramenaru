@@ -39,7 +39,5 @@ CSS                        10 hrs 17 mins  -------------------------   01.24 %
 
 <!--END_SECTION:waka-->
 
-<div style="text-align: center;">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramenaru&theme=dark&card_width=520" alt="Ramenaru Contrib Stats" />
-</div>
+<img src="https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=ramenaru&theme=xcode"/>
 
