@@ -39,5 +39,4 @@ CSS                        10 hrs 22 mins  -------------------------   01.21 %
 
 <!--END_SECTION:waka-->
 
-<img src="https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=ramenaru&theme=xcode"/>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramenaru&theme=ayu_mirage)
