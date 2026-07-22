@@ -3,7 +3,7 @@
 `Full Stack Developer` | `Cybersecurity Enthusiast` | `Information Systems Student`
 
 ## Track Records
-- [![Website](https://img.shields.io/badge/Websites-FF7139?style=for-the-badge&logo=ghost&logoColor=white)](https://ramenaru.me)  
+- [![Website](https://img.shields.io/badge/Websites-FF7139?style=for-the-badge&logo=ghost&logoColor=white)](https://ramenaru.com)  
   Personal blog and technical writings
 
 - [![GitHub](https://img.shields.io/badge/Github_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramenaru)  
@@ -33,5 +33,12 @@ TOML                       10 hrs 50 mins        -------------------------   01.
 ```
 
 <!--END_SECTION:waka-->
+## Licenses
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramenaru&theme=ayu_mirage)
+  <tr>
+        <td  align="center">
+        <details open><summary>Permissions, limitations and conditions</summary><img alt="" width="400" src="https://github.com/ramenaru/metrics/blob/examples/metrics.plugin.licenses.svg" alt=""></img></details>
+        <details open><summary>Licenses overview</summary><img alt="" width="400" src="https://github.com/ramenaru/metrics/blob/examples/metrics.plugin.licenses.ratio.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+</tr>
