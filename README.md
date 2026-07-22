@@ -3,11 +3,12 @@
 `Full Stack Developer` | `Cybersecurity Enthusiast` | `Information Systems Student`
 
 ## Track Records
-- [![Website](https://img.shields.io/badge/Websites-FF7139?style=for-the-badge&logo=ghost&logoColor=white)](https://ramenaru.com)  
-  Personal blog and technical writings
 
-- [![GitHub](https://img.shields.io/badge/Github_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramenaru)  
-  Open-source projects and contributions
+- [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](https://bbs.archlinux.org/profile.php?id=177664) 
+  Forum writing and contributions
+
+- [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/ramenaru/) 
+  Game catalogue and reviews
 
 ## Status
 
